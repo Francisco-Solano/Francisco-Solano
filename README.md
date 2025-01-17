@@ -13,7 +13,7 @@
 [![HTML](https://img.shields.io/badge/HTML-FF6F61?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()&nbsp;
 [![CSS](https://img.shields.io/badge/CSS-2965F1?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()&nbsp;
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=orange&labelColor=101010)]()&nbsp;
-[![Java](https://img.shields.io/badge/Java-F8B900?style=for-the-badge&logo=openjdk&logoColor=blue&labelColor=101010)]()&nbsp;
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()&nbsp;
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()&nbsp;
 [![Unity](https://img.shields.io/badge/Unity-5E3C2D?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()&nbsp;
