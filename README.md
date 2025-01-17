@@ -28,7 +28,8 @@ https://francisco-solano.github.io
 
 ## Contactame por:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/francisco-solano-le%C3%B3n-mu%C3%B1oz-99026a277/)
-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:franciscosolanoleon@gmail.com)[![Email](https://img.shields.io/badge/franciscosolanoleon@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)]()
+- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:franciscosolanoleon@gmail.com)
+
 
 
 
