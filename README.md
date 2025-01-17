@@ -1,16 +1,34 @@
-## Hi there 👋
+## Hola! Soy Francisco
+<img src="https://github.com/Francisco-Solano/Francisco-Solano/blob/main/banner.png" alt="Mi banner" width="800" />
 
-<!--
-**Francisco-Solano/Francisco-Solano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mi:
+- Software Developer
+- Técnico superior DAM
+- Especializado en backend con Java
+- Apasionado por la programación, ciberseguridad y desarrollo de videojuegos.
+- Comprometido con el aprendizaje continuo y de nuevas tecnologías.
+- Entusiasta y flexible
 
-Here are some ideas to get you started:
+## Tecnologías:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![HTML](https://img.shields.io/badge/HTML-FF215F?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
+[![CSS](https://img.shields.io/badge/CSS-FFCA28?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=101010)]()
+[![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white&labelColor=101010)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
+[![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white&labelColor=101010)]()
+[![Odoo](https://img.shields.io/badge/Odoo-9444AD?style=for-the-badge&logo=odoo&logoColor=white&labelColor=101010)]()
+<br>
+
+## Visita mi web personal!
+https://francisco-solano.github.io
+
+## Contactame por: 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-E4405F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/francisco-solano-le%C3%B3n-mu%C3%B1oz-99026a277/)
+- [![Email](https://img.shields.io/badge/mquezflores@gmail.com-Email_contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:franciscosolanoleon@gmail.com)
+
+
